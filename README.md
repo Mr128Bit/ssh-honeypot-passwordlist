@@ -14,7 +14,7 @@ This dataset is intended for:
 - Observing trends over time
 - Supporting cybersecurity research and defensive strategies
 
-**Important:** Use this data responsibly. Do not attempt to log into any systems using these credentials—they are captured from unauthorized access attempts.
+**Important:** Use this data responsibly. Do not attempt to log into any systems using these credentials - they are captured from unauthorized access attempts.
 
 ---
 
