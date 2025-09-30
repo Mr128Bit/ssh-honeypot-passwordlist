@@ -49,5 +49,5 @@ This dataset is provided for **research purposes only**. The maintainers are not
 
 ## License
 
-CC BY 4.0
+MIT
 Do not use this data for illegal activity.
